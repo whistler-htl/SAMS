@@ -34,14 +34,14 @@ spring:
     host: localhost
     database: 0
     port: 6379
-    password: meteor
+    password:
   cache:
     cache-names: c1
   mail:
     host: smtp.qq.com
     port: 465
-    username: 2290502632@qq.com
-    password: mjeqregqbjmidhja
+    username: 1194664161@qq.com
+    password: qpuzkeyqxpgegjea
     default-encoding: utf-8
     properties:
       mail:

@@ -17,7 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mailServer" target="1.8" />
+      <module name="mailServer" target="8" />
       <module name="sams" target="1.8" />
       <module name="samsCommons" target="1.8" />
       <module name="samsMail" target="1.8" />
@@ -25,7 +25,7 @@
       <module name="samsModel" target="1.8" />
       <module name="samsServer" target="1.8" />
       <module name="samsService" target="1.8" />
-      <module name="samsWeb" target="1.8" />
+      <module name="samsWeb" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
